@@ -1,0 +1,22 @@
+INSERT INTO PHOTOS_STORE
+VALUES
+	('Go Shop', 3423),
+	('Luxx', 4324),
+	('FaciArt', 7452),
+	('FaciArt', 47234),
+	('Ama Accessory', 4832),
+	('Happy Drive', 19292),
+	('ABC Mart', 2911),
+	('GCG Gaming', 5838),
+	('Sweet Spot', 39973),
+	('Holy Moly', 22283),
+	('Super Duper' 30192),
+	('Party Place' 32412),
+    ('Stuff 4 U',11111),
+	('Great Deals', 32111),
+	('Here 2 Help', 93241),
+    ('Holy Diver',00001),
+	('Iron Maiden',00001),
+	('Highway 2 Hell',00001),
+	('Die Die My Darling',00001),
+	('Dead Rose',00001);

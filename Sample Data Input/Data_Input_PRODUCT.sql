@@ -1,0 +1,22 @@
+INSERT INTO PRODUCT
+VALUES
+	('P0001', 'Go Shop', 'je3',20, NULL, 200, 'txt', 4, NULL, 'S0001'),
+	('P0002', 'Nava', 'rep',4, NULL, 500, 'txt', 2, NULL, 'S0004'),
+	('P0003', 'Luxx', 'plant',10, NULL, 100, 'txt', 4, NULL, 'S0002'),
+	('P0004', 'Go Shop', 'snack',40, NULL, 800, 'txt', 5, NULL, 'S0001'),
+	('P0005', 'Ama Accessory', 'vi',12, NULL, 500, 'txt', 3, NULL, 'S0005'),
+	('P0006', 'Super Duper', 'new_type', 100, NULL, 500, '.pdf', 5, NULL, 'S0010'),
+	('P0007', 'Party Place', '3d_rty', 5, NULL, 1000, '.png', 4, NULL, 'S0003'),
+	('P0008', 'Stuff 4 U', 'Jk1234', 20, NULL, 15, '.mp3', 3, NULL, 'S0002'),
+	('P0009', 'Great Deals', 'gr8_file', 450, NULL, 0, '.txt.', 5, NULL, 'S0001'),
+	('P0010', 'Here 2 Help', '1001010', 1000, NULL, 1, '.bin', NULL, 'S0009'),
+	('P0011', 'Holy Diver', 'DIO', 666, NULL, 0, '.txt.', 5, NULL, 'S0009'),
+	('P0012', 'Holy Diver', 'Computer as God', 777, NULL, 0, '.txt.', 5, NULL, 'S0009'),
+	('P0013', 'Die Die My Darling', 'Misfits', 1000, NULL, 0, '.txt.', 4, NULL, 'S0004'),
+	('P0014', 'Iron Maiden', 'Fear of the dark', 789, NULL, 0, '.bin', 3, NULL, 'S0006'),
+	('P0015', 'Highway 2 Hell', 'AC-DC', 1010, 'Go Dying', 0, '.bin', 2, NULL, 'S0005'),
+	('P0016', 'Happy Drive', 'handle_93', 100, NULL, 15, '.txt', 4, NULL, 'S0007'),
+	('P0017', 'ABC Mart', 'abcsh01', 50, NULL, 500, '.txt', 4, NULL, 'S0002'),
+	('P0018', 'GCG Gaming', 'sc2_012',60, NULL, 100, '.txt', NULL, 'S0003'),
+	('P0019', 'Sweet Spot', 't_1032', 10, NULL, 10, '.txt', NULL, 'S0007'),
+	('P0020', 'Holy Moly', 'hm_39', 400, NULL, 0, '.txt', NULL, 'S0010');

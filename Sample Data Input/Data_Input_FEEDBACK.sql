@@ -1,0 +1,22 @@
+INSERT INTO FEEDBACK
+VALUES
+	('F0001', NULL, 'Product', 4),
+	('F0002', NULL, 'Product', 4),
+	('F0003', NULL, 'Seller', 5),
+ 	('F0004', NULL, 'Seller', 2),
+	('F0005', NULL, 'Product', 4),
+	('F0006', 'Nice Item', 'Product', 4),
+	('F0007', 'Worth the money', 'Product', 4),
+	('F0008', 'Great seller', 'Seller', 5),
+ 	('F0009', NULL, 'Seller', 2),
+	('F0010', NULL, 'Product', 4),
+	('F0011', 'I do not like it', 'Product', 2),
+	('F0012', 'This is so cool', 'Product', 5),
+	('F0013', 'Customer service is really bad','Seller', 1),
+	('F0014', 'Not bad at all', 'Product', 3),
+	('F0015', 'Seller is so kind','Seller', 5),
+	('F0016','Not bad at all', 'Seller', 4),
+	('F0017', 'Not bad at all', 'Product', 4),
+	('F0018', 'Not bad at all', 'Seller', 4),
+ 	('F0019', 'Not bad at all', 'Seller', 3),
+	('F0020', 'Very good', 'Product', 5);

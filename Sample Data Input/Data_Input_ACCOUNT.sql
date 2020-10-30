@@ -1,0 +1,22 @@
+INSERT INTO ACCOUNT	--20 ACCOUNTS, 10 BUYERS, 10 SELLERS
+VALUES
+	('B0001', 'David Wallace', '2015-12-12', 'wallace1@gmail.com', '67 Euclid Ave, Cleveland,OH', 6142847278),
+	('B0002', 'Jon Nguyen', '2018-08-04','nguyen1@gmail.com', '424 Overlook, San Francisco,CA', 3124675746),
+	('B0003', 'Mary Adcock', '2017-06-01', 'adcockt123@gmail.com', '231 Pope st, Athens, GA', 2162343212),
+	('B0004', 'Harrison Yi', '2017-08-04',  'yi1@gmail.com', '3422 May Ave, Boston,MA', 61473848383),
+	('B0005', 'Yoona Im', '2018-01-12', 'im123@gmail.com','78 Cedar Rd, San Antonio,TX', 4064738576),
+	('B0006', 'Jack Lim', '2019-04-21', 'lim023@gmail.com', '603 Harley Dr, Columbus, OH', 6149322812),
+	('B0007', 'David Wang', '2020-10-19', 'wang92@gmail.com', '110 Tibet Rd, Columbus, OH', 6143823723),
+	('B0008', 'Brian Davis', '2019-03-20', 'davis3@gmail.com', '117 E Weber Rd, Columbus, OH', 6143820221),
+	('B0009', 'Dante Simonetti', '2018-05-14', 'simon192@gmail.com', '128 Crestview Rd, Columbus, OH', 6140392810),
+	('B0010', 'Robert Mori', '2019-03-20', 'mori999@gmail.com', '72 E Tulane Rd, Columbus, OH', 6149302812),
+	('S0001', 'Cade Sbrocco', '2016-07-08', 'sbroccocade@gmail.com', '5983 Mystic Rdg, Erie, PA', 8149202721),
+	('S0002', 'Nick Jones', '2018-11-16', 'nwjones@gmail.com', '324 Forbes Ave, Pittsburgh, PA', 8142329090),
+	('S0003', 'Cory Branton', '2017-05-25', 'cbranton7@gmail.com', '231 5th Ave, Pittsburgh, PA', 8143235400),
+	('S0004', 'Luca Lavezzo', '2016-03-12', 'llavez@gmail.com', '423 State St, Cincinnati, OH', 2341220343),
+	('S0005', 'Brandon Mannley', '2016-11-15', 'bman@gmail.com', '231 Euclid Ave, Cleveland, OH', 9124506783),
+	('S0006', 'Ozzy Osburne', '2016-11-15', 'ozzy@gmail.com', '254 Euclid Ave, Cleveland, OH', 6147957783),
+	('S0007','Steve Harris', '2016-11-15', 'ss@gmail.com', '531 Euclid Ave, Cleveland, OH', 6147958787),
+	('S0008','Sid Vicious', '2016-11-15', 'sd@gmail.com', '666 Euclid Ave, Cleveland, OH', 6147958866),
+	('S0009','Johnny Rotten', '2016-11-15', 'jr@gmail.com', '789 Harley Dr, Columbus, OH', 6147957979),
+	('S0010','Jeff Hannyman', '2016-11-15', 'jh666@gmail.com', '555 Lane Ave, Cleveland, OH', 6147957414);
