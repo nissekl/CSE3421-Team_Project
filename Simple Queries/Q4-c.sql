@@ -2,4 +2,4 @@
 
 	SELECT	COUNT(b.Employee_id)
 	FROM	BB_EMPLOYEE as b
-	WHERE   b.Name LIKE ‘John%’;
+	WHERE   b.Name LIKE 'John%';

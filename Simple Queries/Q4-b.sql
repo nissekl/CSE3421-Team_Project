@@ -2,4 +2,4 @@
 
 	SELECT	COUNT(p.Product_id)
 	FROM	PRODUCT AS p
-	WHERE	p.Store_name = ‘Super Duper’
+	WHERE	p.Store_name = 'Super Duper'
