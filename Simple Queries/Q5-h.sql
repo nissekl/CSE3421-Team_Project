@@ -1,7 +1,7 @@
 /*h. Provide the list of sellers who listed the IP Items purchased by the buyers who have spent more than the average buyer.*/
 
-SELECT s.* 
-FROM PRODUCT AS p, SELLER AS s, HAS AS h, ORDER_ AS O, (SELECT 		B.*
+SELECT A1.Name 
+FROM ACCOUNT1 as A1, PRODUCT AS p, SELLER AS s, HAS AS h, ORDER_ AS O, (SELECT 		B.*
                                                         FROM		ACCOUNT1 AS A, BUYER AS B, ORDER_ AS O, HAS AS H, PRODUCT AS P
                                                         WHERE		A.Account_id=B.Account_id AND B.Account_id=O.Account_id AND O.Transaction_id = H.Transaction_id AND	P.Product_id=H.Product_id
                                                         GROUP BY 	A.account_id
@@ -10,4 +10,4 @@ FROM PRODUCT AS p, SELLER AS s, HAS AS h, ORDER_ AS O, (SELECT 		B.*
                                                         WHERE	A.Account_id=B.Account_id AND B.Account_id=O.Account_id AND O.Transaction_id = H.Transaction_id AND	P.Product_id=H.Product_id)) as b
                                                                                                 
 
-WHERE p.Product_id = h.Product_id AND o.Transaction_id = h.Transaction_id AND o.Account_id = b.Account_id AND p.Account_id = s.Account_id;                                                                                      
+WHERE p.Product_id = h.Product_id AND o.Transaction_id = h.Transaction_id AND o.Account_id = b.Account_id AND p.Account_id = s.Account_id AND A1.Account_id = s.Account_id;                                                                                      
