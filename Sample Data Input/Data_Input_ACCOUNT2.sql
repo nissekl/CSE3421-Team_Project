@@ -1,0 +1,22 @@
+INSERT INTO ACCOUNT2	--20 ACCOUNTS, 10 BUYERS, 10 SELLERS
+VALUES
+	('wallace1@gmail.com', 6142847278),
+	('nguyen1@gmail.com', 3124675746),
+	('adcockt123@gmail.com',2162343212),
+	('yi1@gmail.com', 61473848383),
+	('im123@gmail.com', 4064738576),
+	( 'lim023@gmail.com', 6149322812),
+	('wang92@gmail.com',6143823723),
+	('davis3@gmail.com', 6143820221),
+	('simon192@gmail.com', 6140392810),
+	('mori999@gmail.com', 6149302812),
+	('sbroccocade@gmail.com', 8149202721),
+	('nwjones@gmail.com', 8142329090),
+	('cbranton7@gmail.com', 8143235400),
+	('llavez@gmail.com', 2341220343),
+	('bman@gmail.com', 9124506783),
+	('ozzy@gmail.com', 6147957783),
+	('ss@gmail.com', 6147958787),
+	('sd@gmail.com', 6147958866),
+	('jr@gmail.com', 6147957979),
+	('jh666@gmail.com', 6147957414);

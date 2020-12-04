@@ -1,0 +1,22 @@
+INSERT INTO BB_EMPLOYEE2
+VALUES
+('scott1@gmail.com',  2162343212),
+('schrute09@gmail.com', 6149003400),
+('halpert123@gmail.com', 6145264993),
+('pampam@gmail.com', 6145263934),
+('bernard23@gmail.com', 6145279430),
+('korh13@gmail.com', 6145264934),
+('kim938@gmail.com', 6145628042),
+('kay81@gmail.com', 7346351634),
+('klinger05@gmail.com', 8273634931),
+('meyer83@gmail.com', 7236238281),
+('jj111@gmail.com', 3303743812),
+('jj121@gmail.com', 6148284932),
+('ts33@gmail.com', 6145262832),
+('gb1256@gmail.com', 6145261232),
+('ts6543@gmail.com', 2161827372),
+('jj123@gmail.com', 4402832312),
+('jn123@gmail.com', 2164826361),
+('jo113@gmail.com', 6142536253),
+('js144@gmail.com', 6147956666),
+('js155@gmail.com', 6147977775);
